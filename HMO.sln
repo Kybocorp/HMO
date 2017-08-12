@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F44FABA0-C445-4CF6-8361-AA04F4FD2A2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F06D5ECC-CE19-48BB-8C6B-72A518340943}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HMO.API", "src\HMO.API\HMO.API.xproj", "{1127D11A-DD61-47BA-A3BA-59F924E0D4B2}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HMO.AppServices", "src\HMO.AppServices\HMO.AppServices.xproj", "{748310DC-1AA3-44DE-8D92-6233F463F67F}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HMO.Infrastructure", "src\HMO.Infrastructure\HMO.Infrastructure.xproj", "{95CF5B88-71CD-480F-ADA7-D9C041F3726B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HMO.Core", "src\HMO.Core\HMO.Core.xproj", "{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1127D11A-DD61-47BA-A3BA-59F924E0D4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1127D11A-DD61-47BA-A3BA-59F924E0D4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1127D11A-DD61-47BA-A3BA-59F924E0D4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1127D11A-DD61-47BA-A3BA-59F924E0D4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748310DC-1AA3-44DE-8D92-6233F463F67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748310DC-1AA3-44DE-8D92-6233F463F67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748310DC-1AA3-44DE-8D92-6233F463F67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748310DC-1AA3-44DE-8D92-6233F463F67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CF5B88-71CD-480F-ADA7-D9C041F3726B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CF5B88-71CD-480F-ADA7-D9C041F3726B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CF5B88-71CD-480F-ADA7-D9C041F3726B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CF5B88-71CD-480F-ADA7-D9C041F3726B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1127D11A-DD61-47BA-A3BA-59F924E0D4B2} = {F44FABA0-C445-4CF6-8361-AA04F4FD2A2D}
+		{748310DC-1AA3-44DE-8D92-6233F463F67F} = {F44FABA0-C445-4CF6-8361-AA04F4FD2A2D}
+		{95CF5B88-71CD-480F-ADA7-D9C041F3726B} = {F44FABA0-C445-4CF6-8361-AA04F4FD2A2D}
+		{76D7A3AA-EC57-4D39-B0EC-FFBFA9D5F25F} = {F44FABA0-C445-4CF6-8361-AA04F4FD2A2D}
+	EndGlobalSection
+EndGlobal

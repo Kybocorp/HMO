@@ -1,0 +1,194 @@
+2017-06-12 19:36:40.518 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/values  
+2017-06-12 19:36:40.518 +01:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:60207/  0
+2017-06-12 19:36:40.670 +01:00 [Information] Request finished in 186.3384ms 200 
+2017-06-12 19:36:41.030 +01:00 [Information] Request finished in 569.6859ms 404 
+2017-06-12 19:36:47.339 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui  
+2017-06-12 19:36:47.343 +01:00 [Information] Request finished in 7.8829ms 302 
+2017-06-12 19:36:47.351 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/index.html  
+2017-06-12 19:36:47.363 +01:00 [Information] Request finished in 12.4358ms 200 text/html
+2017-06-12 19:36:47.375 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/typography.css  
+2017-06-12 19:36:47.375 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/reset.css  
+2017-06-12 19:36:47.383 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/screen.css  
+2017-06-12 19:36:47.427 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.slideto.min.js  
+2017-06-12 19:36:47.447 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery-1.8.0.min.js  
+2017-06-12 19:36:47.427 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/object-assign-pollyfill.js  
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/css/screen.css" was not modified
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/css/typography.css" was not modified
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/css/reset.css" was not modified
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/lib/jquery.slideto.min.js" was not modified
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/lib/jquery-1.8.0.min.js" was not modified
+2017-06-12 19:36:47.491 +01:00 [Information] The file "/lib/object-assign-pollyfill.js" was not modified
+2017-06-12 19:36:47.539 +01:00 [Information] Request finished in 153.1382ms 304 application/javascript
+2017-06-12 19:36:47.567 +01:00 [Information] Request finished in 164.076ms 304 application/javascript
+2017-06-12 19:36:47.567 +01:00 [Information] Request finished in 172.4694ms 304 text/css
+2017-06-12 19:36:47.591 +01:00 [Information] Request finished in 143.1755ms 304 text/css
+2017-06-12 19:36:47.591 +01:00 [Information] Request finished in 196.1906ms 304 text/css
+2017-06-12 19:36:47.599 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.ba-bbq.min.js  
+2017-06-12 19:36:47.599 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/lodash.min.js  
+2017-06-12 19:36:47.599 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/backbone-min.js  
+2017-06-12 19:36:47.603 +01:00 [Information] The file "/lib/lodash.min.js" was not modified
+2017-06-12 19:36:47.607 +01:00 [Information] The file "/lib/backbone-min.js" was not modified
+2017-06-12 19:36:47.611 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.wiggle.min.js  
+2017-06-12 19:36:47.631 +01:00 [Information] The file "/lib/jquery.ba-bbq.min.js" was not modified
+2017-06-12 19:36:47.635 +01:00 [Information] Request finished in 37.0383ms 304 application/javascript
+2017-06-12 19:36:47.655 +01:00 [Information] The file "/lib/jquery.wiggle.min.js" was not modified
+2017-06-12 19:36:47.655 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/handlebars-4.0.5.js  
+2017-06-12 19:36:47.679 +01:00 [Information] Request finished in 185.4805ms 304 application/javascript
+2017-06-12 19:36:47.739 +01:00 [Information] The file "/lib/handlebars-4.0.5.js" was not modified
+2017-06-12 19:36:47.739 +01:00 [Information] Request finished in 147.5823ms 304 application/javascript
+2017-06-12 19:36:47.763 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack.js  
+2017-06-12 19:36:47.787 +01:00 [Information] Request finished in 217.9828ms 304 application/javascript
+2017-06-12 19:36:47.787 +01:00 [Information] Request finished in 98.0549ms 304 application/javascript
+2017-06-12 19:36:47.791 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack_extended.js  
+2017-06-12 19:36:47.795 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/marked.js  
+2017-06-12 19:36:47.799 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jsoneditor.min.js  
+2017-06-12 19:36:47.803 +01:00 [Information] Request finished in 229.7645ms 304 application/javascript
+2017-06-12 19:36:47.807 +01:00 [Information] The file "/lib/highlight.9.1.0.pack_extended.js" was not modified
+2017-06-12 19:36:47.827 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/swagger-ui.min.js  
+2017-06-12 19:36:47.827 +01:00 [Information] The file "/lib/highlight.9.1.0.pack.js" was not modified
+2017-06-12 19:36:47.851 +01:00 [Information] The file "/swagger-ui.min.js" was not modified
+2017-06-12 19:36:47.851 +01:00 [Information] The file "/lib/marked.js" was not modified
+2017-06-12 19:36:47.895 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/swagger-oauth.js  
+2017-06-12 19:36:47.935 +01:00 [Information] The file "/lib/swagger-oauth.js" was not modified
+2017-06-12 19:36:47.939 +01:00 [Information] Request finished in 256.1851ms 304 application/javascript
+2017-06-12 19:36:47.959 +01:00 [Information] Request finished in 122.4956ms 304 application/javascript
+2017-06-12 19:36:47.963 +01:00 [Information] The file "/lib/jsoneditor.min.js" was not modified
+2017-06-12 19:36:47.971 +01:00 [Information] Request finished in 173.3129ms 304 application/javascript
+2017-06-12 19:36:47.975 +01:00 [Information] Request finished in 198.8834ms 304 application/javascript
+2017-06-12 19:36:47.979 +01:00 [Information] Request finished in 132.0842ms 304 application/javascript
+2017-06-12 19:36:47.983 +01:00 [Information] Request finished in 175.8914ms 304 application/javascript
+2017-06-12 19:36:47.983 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/logo_small.png  
+2017-06-12 19:36:47.987 +01:00 [Information] The file "/images/logo_small.png" was not modified
+2017-06-12 19:36:47.991 +01:00 [Information] Request finished in 7.9636ms 304 image/png
+2017-06-12 19:36:47.995 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/print.css  
+2017-06-12 19:36:47.999 +01:00 [Information] The file "/css/print.css" was not modified
+2017-06-12 19:36:48.003 +01:00 [Information] Request finished in 6.5267ms 304 text/css
+2017-06-12 19:36:48.043 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/v1/swagger.json  
+2017-06-12 19:36:48.059 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-12 19:36:48.063 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-12 19:36:48.067 +01:00 [Information] Request finished in 6.0019ms 304 image/png
+2017-06-12 19:36:48.429 +01:00 [Information] Request finished in 384.6089ms 200 application/json
+2017-06-12 19:37:05.783 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-12 19:37:05.783 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-12 19:37:05.791 +01:00 [Information] Request finished in 8.5071ms 304 image/png
+2017-06-12 19:37:07.132 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/throbber.gif  
+2017-06-12 19:37:07.136 +01:00 [Information] The file "/images/throbber.gif" was not modified
+2017-06-12 19:37:07.140 +01:00 [Information] Request finished in 6.8715ms 304 image/gif
+2017-06-12 19:37:07.172 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-12 19:37:07.176 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-12 19:37:07.180 +01:00 [Information] Request finished in 5.4975ms 304 image/png
+2017-06-12 19:37:11.009 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1881
+2017-06-12 19:37:11.380 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-12 19:37:17.395 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 139, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 06/12/2017 12:00:04, EndTime: 06/12/2017 12:01:06, PremisesType: 100, NumberOfResidents: 40, ManagementStandards: 100, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 20, DampAndMouldGrowth: 500, ExcessCold: 100, ExcessHeat: 100, Asbestos: 100, Biocides: 100, CarbonMonoxideAndFuel: 10, Lead: 10, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 10, CrowdingAndSpace: 500, EntryByIntruders: 500, Lighting: 100, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 100, FoodSafety: 10, PersonalHygieneSanitationAndDrainage: 10, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 0, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 500, Fire: 100, FlamesHotSurfaces: 100, CollisionAndEntrapment: 10, Explosions: 100, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 100, EvidenceImages: [] }, ServiceRequestForm: null, HmoVerificationForm: HmoVerificationForm { StartTime: 06/12/2017 11:58:54, EndTime: 06/12/2017 12:00:03, PropertyDescription: "Saldadas", Storeys: 1, NumberOfWhbs: 1, NumberOfOccupants: 2, FireProtection: 2, FireProtectionDescription: "Dsadsadasasd", CorrectFeePaid: True, AccreditationProof: True, RefundAmount: 12.21, OutstandingAmount: 443.43, Rooms: [Room { RoomType: 0, Storey: 3, Location: 4, Length: 12, Width: 2, NumberOfPeople: 1, NumberOfHouseHolds: 2, Notes: null }], EvidenceImages: [] } }
+2017-06-12 19:37:29.686 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>139</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>2017-06-12T12:00:04.171+01:00</StartTime>
+    <EndTime>2017-06-12T12:01:06.605+01:00</EndTime>
+    <PremisesType>100</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>100</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>20</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>100</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>100</Asbestos>
+    <Biocides>100</Biocides>
+    <CarbonMonoxideAndFuel>10</CarbonMonoxideAndFuel>
+    <Lead>10</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>10</VolatileOrganicCompounds>
+    <CrowdingAndSpace>500</CrowdingAndSpace>
+    <EntryByIntruders>500</EntryByIntruders>
+    <Lighting>100</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>100</DomesticHygienePestsAndRefuse>
+    <FoodSafety>10</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>10</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>0</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>500</ElectricalHazards>
+    <Fire>100</Fire>
+    <FlamesHotSurfaces>100</FlamesHotSurfaces>
+    <CollisionAndEntrapment>10</CollisionAndEntrapment>
+    <Explosions>100</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>100</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <HmoVerificationForm>
+    <StartTime>2017-06-12T11:58:54.283+01:00</StartTime>
+    <EndTime>2017-06-12T12:00:03.43+01:00</EndTime>
+    <PropertyDescription>Saldadas</PropertyDescription>
+    <Storeys>1</Storeys>
+    <NumberOfWhbs>1</NumberOfWhbs>
+    <NumberOfOccupants>2</NumberOfOccupants>
+    <FireProtection>2</FireProtection>
+    <FireProtectionDescription>Dsadsadasasd</FireProtectionDescription>
+    <CorrectFeePaid>true</CorrectFeePaid>
+    <AccreditationProof>true</AccreditationProof>
+    <RefundAmount>12.21</RefundAmount>
+    <OutstandingAmount>443.43</OutstandingAmount>
+    <Rooms>
+      <Room>
+        <RoomType>0</RoomType>
+        <Storey>3</Storey>
+        <Location>4</Location>
+        <Length>12</Length>
+        <Width>2</Width>
+        <NumberOfPeople>1</NumberOfPeople>
+        <NumberOfHouseHolds>2</NumberOfHouseHolds>
+      </Room>
+    </Rooms>
+    <EvidenceImages />
+  </HmoVerificationForm>
+</InspectionRequest>"
+2017-06-12 19:38:19.591 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-12 19:38:19.889 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-12 19:38:19.941 +01:00 [Information] Request finished in 68931.5678ms 500 application/json

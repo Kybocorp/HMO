@@ -1,0 +1,103 @@
+2017-06-06 13:53:20.416 +01:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:60207/  0
+2017-06-06 13:53:20.416 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/values  
+2017-06-06 13:53:20.594 +01:00 [Information] Request finished in 224.4713ms 200 
+2017-06-06 13:53:20.990 +01:00 [Information] Request finished in 646.0943ms 404 
+2017-06-06 13:53:26.160 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui  
+2017-06-06 13:53:26.168 +01:00 [Information] Request finished in 9.9972ms 302 
+2017-06-06 13:53:26.176 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/index.html  
+2017-06-06 13:53:26.196 +01:00 [Information] Request finished in 18.4186ms 200 text/html
+2017-06-06 13:53:26.204 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/typography.css  
+2017-06-06 13:53:26.208 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/screen.css  
+2017-06-06 13:53:26.240 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/reset.css  
+2017-06-06 13:53:26.264 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/object-assign-pollyfill.js  
+2017-06-06 13:53:26.284 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.slideto.min.js  
+2017-06-06 13:53:26.284 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery-1.8.0.min.js  
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/lib/object-assign-pollyfill.js" was not modified
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/lib/jquery-1.8.0.min.js" was not modified
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/css/typography.css" was not modified
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/css/screen.css" was not modified
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/css/reset.css" was not modified
+2017-06-06 13:53:26.376 +01:00 [Information] The file "/lib/jquery.slideto.min.js" was not modified
+2017-06-06 13:53:26.429 +01:00 [Information] Request finished in 210.6461ms 304 text/css
+2017-06-06 13:53:26.453 +01:00 [Information] Request finished in 199.6756ms 304 application/javascript
+2017-06-06 13:53:26.489 +01:00 [Information] Request finished in 244.0128ms 304 application/javascript
+2017-06-06 13:53:26.493 +01:00 [Information] Request finished in 273.8083ms 304 text/css
+2017-06-06 13:53:26.501 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/handlebars-4.0.5.js  
+2017-06-06 13:53:26.577 +01:00 [Information] Request finished in 324.9419ms 304 text/css
+2017-06-06 13:53:26.581 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.wiggle.min.js  
+2017-06-06 13:53:26.585 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.ba-bbq.min.js  
+2017-06-06 13:53:26.613 +01:00 [Information] The file "/lib/handlebars-4.0.5.js" was not modified
+2017-06-06 13:53:26.613 +01:00 [Information] The file "/lib/jquery.wiggle.min.js" was not modified
+2017-06-06 13:53:26.641 +01:00 [Information] Request finished in 287.8019ms 304 application/javascript
+2017-06-06 13:53:26.665 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/backbone-min.js  
+2017-06-06 13:53:26.677 +01:00 [Information] Request finished in 170.4409ms 304 application/javascript
+2017-06-06 13:53:26.681 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/swagger-ui.min.js  
+2017-06-06 13:53:26.689 +01:00 [Information] The file "/lib/backbone-min.js" was not modified
+2017-06-06 13:53:26.713 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/lodash.min.js  
+2017-06-06 13:53:26.733 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack_extended.js  
+2017-06-06 13:53:26.733 +01:00 [Information] Request finished in 250.7393ms 304 application/javascript
+2017-06-06 13:53:26.757 +01:00 [Information] The file "/lib/jquery.ba-bbq.min.js" was not modified
+2017-06-06 13:53:26.777 +01:00 [Information] The file "/lib/highlight.9.1.0.pack_extended.js" was not modified
+2017-06-06 13:53:26.777 +01:00 [Information] The file "/lib/lodash.min.js" was not modified
+2017-06-06 13:53:26.821 +01:00 [Information] Request finished in 115.757ms 304 application/javascript
+2017-06-06 13:53:26.821 +01:00 [Information] The file "/swagger-ui.min.js" was not modified
+2017-06-06 13:53:26.833 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jsoneditor.min.js  
+2017-06-06 13:53:26.853 +01:00 [Information] Request finished in 123.0213ms 304 application/javascript
+2017-06-06 13:53:26.857 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack.js  
+2017-06-06 13:53:26.885 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/marked.js  
+2017-06-06 13:53:26.909 +01:00 [Information] The file "/lib/highlight.9.1.0.pack.js" was not modified
+2017-06-06 13:53:26.977 +01:00 [Information] Request finished in 256.3456ms 304 application/javascript
+2017-06-06 13:53:26.977 +01:00 [Information] Request finished in 380.9154ms 304 application/javascript
+2017-06-06 13:53:27.025 +01:00 [Information] The file "/lib/jsoneditor.min.js" was not modified
+2017-06-06 13:53:27.025 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/swagger-oauth.js  
+2017-06-06 13:53:27.037 +01:00 [Information] Request finished in 275.9026ms 304 application/javascript
+2017-06-06 13:53:27.045 +01:00 [Information] The file "/lib/swagger-oauth.js" was not modified
+2017-06-06 13:53:27.069 +01:00 [Information] Request finished in 163.9044ms 304 application/javascript
+2017-06-06 13:53:27.081 +01:00 [Information] Request finished in 92.1804ms 304 application/javascript
+2017-06-06 13:53:27.089 +01:00 [Information] The file "/lib/marked.js" was not modified
+2017-06-06 13:53:27.109 +01:00 [Information] Request finished in 509.7539ms 304 application/javascript
+2017-06-06 13:53:27.117 +01:00 [Information] Request finished in 253.5912ms 304 application/javascript
+2017-06-06 13:53:27.117 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/logo_small.png  
+2017-06-06 13:53:27.121 +01:00 [Information] The file "/images/logo_small.png" was not modified
+2017-06-06 13:53:27.125 +01:00 [Information] Request finished in 8.2268ms 304 image/png
+2017-06-06 13:53:27.133 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/print.css  
+2017-06-06 13:53:27.133 +01:00 [Information] The file "/css/print.css" was not modified
+2017-06-06 13:53:27.141 +01:00 [Information] Request finished in 7.283ms 304 text/css
+2017-06-06 13:53:27.237 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/v1/swagger.json  
+2017-06-06 13:53:27.249 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-06 13:53:27.257 +01:00 [Information] Sending file. Request path: '"/images/favicon-16x16.png"'. Physical path: '"N/A"'
+2017-06-06 13:53:27.297 +01:00 [Information] Request finished in 28.3995ms 200 image/png
+2017-06-06 13:53:27.297 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-32x32.png  
+2017-06-06 13:53:27.301 +01:00 [Information] The file "/images/favicon-32x32.png" was not modified
+2017-06-06 13:53:27.305 +01:00 [Information] Request finished in 27.6088ms 304 image/png
+2017-06-06 13:53:27.644 +01:00 [Information] Request finished in 418.1091ms 200 application/json
+2017-06-06 13:53:29.796 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-06 13:53:29.800 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-06 13:53:29.804 +01:00 [Information] Request finished in 10.482ms 304 image/png
+2017-06-06 13:53:32.871 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/throbber.gif  
+2017-06-06 13:53:32.875 +01:00 [Information] The file "/images/throbber.gif" was not modified
+2017-06-06 13:53:32.879 +01:00 [Information] Request finished in 8.4484ms 304 image/gif
+2017-06-06 13:53:32.911 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-06 13:53:32.915 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-06 13:53:32.919 +01:00 [Information] Request finished in 8.2748ms 304 image/png
+2017-06-06 13:53:36.735 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/Inspection/GetInspectionsByUserId/1  
+2017-06-06 13:53:36.995 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" with arguments (["1"]) - ModelState is Valid
+2017-06-06 13:53:37.011 +01:00 [Information] Calling GetInspectionsByUserId from InspectionController with UserId : 1
+2017-06-06 13:53:37.063 +01:00 [Information] Calling stored procedure api.GetUserPendingInspections with UserId:  1
+2017-06-06 13:53:38.068 +01:00 [Information] Executing ObjectResult, writing value "Microsoft.AspNetCore.Mvc.ControllerContext".
+2017-06-06 13:53:38.156 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" in 1345.4231ms
+2017-06-06 13:53:38.159 +01:00 [Information] Request finished in 1426.2808ms 200 application/json; charset=utf-8
+2017-06-06 14:02:45.579 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/Inspection/GetInspectionsByUserId/1  
+2017-06-06 14:02:45.607 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" with arguments (["1"]) - ModelState is Valid
+2017-06-06 14:02:45.611 +01:00 [Information] Calling GetInspectionsByUserId from InspectionController with UserId : 1
+2017-06-06 14:02:45.611 +01:00 [Information] Calling stored procedure api.GetUserPendingInspections with UserId:  1
+2017-06-06 14:02:46.030 +01:00 [Information] Executing ObjectResult, writing value "Microsoft.AspNetCore.Mvc.ControllerContext".
+2017-06-06 14:02:46.054 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" in 458.4883ms
+2017-06-06 14:02:46.070 +01:00 [Information] Request finished in 488.4988ms 200 application/json; charset=utf-8
+2017-06-06 14:07:36.464 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/Inspection/GetInspectionsByUserId/1  
+2017-06-06 14:07:36.468 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" with arguments (["1"]) - ModelState is Valid
+2017-06-06 14:07:36.472 +01:00 [Information] Calling GetInspectionsByUserId from InspectionController with UserId : 1
+2017-06-06 14:07:36.476 +01:00 [Information] Calling stored procedure api.GetUserPendingInspections with UserId:  1
+2017-06-06 14:07:36.960 +01:00 [Information] Executing ObjectResult, writing value "Microsoft.AspNetCore.Mvc.ControllerContext".
+2017-06-06 14:07:37.020 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.GetInspectionsByUserId (HMO.API)" in 537.2783ms
+2017-06-06 14:07:37.032 +01:00 [Information] Request finished in 566.2182ms 200 application/json; charset=utf-8

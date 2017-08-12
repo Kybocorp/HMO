@@ -1,0 +1,879 @@
+2017-06-09 15:05:30.976 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/api/values  
+2017-06-09 15:05:30.976 +01:00 [Information] Request starting HTTP/1.1 DEBUG http://localhost:60207/  0
+2017-06-09 15:05:31.132 +01:00 [Information] Request finished in 189.4721ms 200 
+2017-06-09 15:05:31.500 +01:00 [Information] Request finished in 579.2129ms 404 
+2017-06-09 15:06:16.759 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui  
+2017-06-09 15:06:16.767 +01:00 [Information] Request finished in 10.4479ms 302 
+2017-06-09 15:06:16.775 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/index.html  
+2017-06-09 15:06:16.791 +01:00 [Information] Request finished in 14.0878ms 200 text/html
+2017-06-09 15:06:16.803 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/typography.css  
+2017-06-09 15:06:16.807 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/reset.css  
+2017-06-09 15:06:16.807 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/object-assign-pollyfill.js  
+2017-06-09 15:06:16.843 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/screen.css  
+2017-06-09 15:06:16.867 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery-1.8.0.min.js  
+2017-06-09 15:06:16.867 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.slideto.min.js  
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/lib/object-assign-pollyfill.js" was not modified
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/lib/jquery-1.8.0.min.js" was not modified
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/lib/jquery.slideto.min.js" was not modified
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/css/reset.css" was not modified
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/css/screen.css" was not modified
+2017-06-09 15:06:16.923 +01:00 [Information] The file "/css/typography.css" was not modified
+2017-06-09 15:06:16.979 +01:00 [Information] Request finished in 150.3675ms 304 text/css
+2017-06-09 15:06:17.011 +01:00 [Information] Request finished in 141.1232ms 304 application/javascript
+2017-06-09 15:06:17.011 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.wiggle.min.js  
+2017-06-09 15:06:17.019 +01:00 [Information] The file "/lib/jquery.wiggle.min.js" was not modified
+2017-06-09 15:06:17.108 +01:00 [Information] Request finished in 231.7902ms 304 application/javascript
+2017-06-09 15:06:17.120 +01:00 [Information] Request finished in 289.4926ms 304 application/javascript
+2017-06-09 15:06:17.140 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/handlebars-4.0.5.js  
+2017-06-09 15:06:17.144 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/lodash.min.js  
+2017-06-09 15:06:17.156 +01:00 [Information] Request finished in 261.9836ms 304 text/css
+2017-06-09 15:06:17.168 +01:00 [Information] The file "/lib/handlebars-4.0.5.js" was not modified
+2017-06-09 15:06:17.172 +01:00 [Information] The file "/lib/lodash.min.js" was not modified
+2017-06-09 15:06:17.204 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jquery.ba-bbq.min.js  
+2017-06-09 15:06:17.204 +01:00 [Information] Request finished in 278.4554ms 304 text/css
+2017-06-09 15:06:17.252 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/backbone-min.js  
+2017-06-09 15:06:17.276 +01:00 [Information] Request finished in 208.4231ms 304 application/javascript
+2017-06-09 15:06:17.276 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/swagger-ui.min.js  
+2017-06-09 15:06:17.284 +01:00 [Information] The file "/swagger-ui.min.js" was not modified
+2017-06-09 15:06:17.288 +01:00 [Information] Request finished in 119.0852ms 304 application/javascript
+2017-06-09 15:06:17.300 +01:00 [Information] The file "/lib/backbone-min.js" was not modified
+2017-06-09 15:06:17.320 +01:00 [Information] The file "/lib/jquery.ba-bbq.min.js" was not modified
+2017-06-09 15:06:17.320 +01:00 [Information] Request finished in 107.7424ms 304 application/javascript
+2017-06-09 15:06:17.364 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack.js  
+2017-06-09 15:06:17.384 +01:00 [Information] Request finished in 324.8053ms 304 application/javascript
+2017-06-09 15:06:17.400 +01:00 [Information] The file "/lib/highlight.9.1.0.pack.js" was not modified
+2017-06-09 15:06:17.404 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/jsoneditor.min.js  
+2017-06-09 15:06:17.428 +01:00 [Information] Request finished in 160.5803ms 304 application/javascript
+2017-06-09 15:06:17.436 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/highlight.9.1.0.pack_extended.js  
+2017-06-09 15:06:17.440 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/marked.js  
+2017-06-09 15:06:17.460 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/lib/swagger-oauth.js  
+2017-06-09 15:06:17.460 +01:00 [Information] Request finished in 154.9246ms 304 application/javascript
+2017-06-09 15:06:17.464 +01:00 [Information] The file "/lib/swagger-oauth.js" was not modified
+2017-06-09 15:06:17.464 +01:00 [Information] Request finished in 259.7419ms 304 application/javascript
+2017-06-09 15:06:17.468 +01:00 [Information] Request finished in 31.8076ms 304 application/javascript
+2017-06-09 15:06:17.472 +01:00 [Information] The file "/lib/jsoneditor.min.js" was not modified
+2017-06-09 15:06:17.472 +01:00 [Information] The file "/lib/highlight.9.1.0.pack_extended.js" was not modified
+2017-06-09 15:06:17.516 +01:00 [Information] The file "/lib/marked.js" was not modified
+2017-06-09 15:06:17.540 +01:00 [Information] Request finished in 217.7775ms 304 application/javascript
+2017-06-09 15:06:17.540 +01:00 [Information] Request finished in 111.1043ms 304 application/javascript
+2017-06-09 15:06:17.544 +01:00 [Information] Request finished in 152.2178ms 304 application/javascript
+2017-06-09 15:06:17.548 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/logo_small.png  
+2017-06-09 15:06:17.552 +01:00 [Information] The file "/images/logo_small.png" was not modified
+2017-06-09 15:06:17.572 +01:00 [Information] Request finished in 6.0718ms 304 image/png
+2017-06-09 15:06:17.596 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/css/print.css  
+2017-06-09 15:06:17.596 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/v1/swagger.json  
+2017-06-09 15:06:17.600 +01:00 [Information] The file "/css/print.css" was not modified
+2017-06-09 15:06:17.604 +01:00 [Information] Request finished in 47.5282ms 304 text/css
+2017-06-09 15:06:17.616 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-09 15:06:17.616 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-09 15:06:17.620 +01:00 [Information] Request finished in 6.2356ms 304 image/png
+2017-06-09 15:06:17.968 +01:00 [Information] Request finished in 393.5551ms 200 application/json
+2017-06-09 15:06:24.055 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-09 15:06:24.055 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-09 15:06:24.063 +01:00 [Information] Request finished in 8.2855ms 304 image/png
+2017-06-09 15:06:28.041 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/throbber.gif  
+2017-06-09 15:06:28.041 +01:00 [Information] The file "/images/throbber.gif" was not modified
+2017-06-09 15:06:28.049 +01:00 [Information] Request finished in 9.6394ms 304 image/gif
+2017-06-09 15:06:28.085 +01:00 [Information] Request starting HTTP/1.1 GET http://localhost:60207/swagger/ui/images/favicon-16x16.png  
+2017-06-09 15:06:28.089 +01:00 [Information] The file "/images/favicon-16x16.png" was not modified
+2017-06-09 15:06:28.093 +01:00 [Information] Request finished in 7.3175ms 304 image/png
+2017-06-09 15:06:54.282 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2004
+2017-06-09 15:06:54.639 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:07:22.795 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:07:22.819 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:07:22.835 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 28478.3532ms
+2017-06-09 15:07:22.839 +01:00 [Information] Request finished in 28559.1586ms 400 
+2017-06-09 15:09:22.014 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 842
+2017-06-09 15:09:22.066 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:09:37.455 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: null, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:09:58.764 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:11:37.279 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:11:37.554 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:11:37.617 +01:00 [Information] Request finished in 135617.8893ms 500 application/json
+2017-06-09 15:11:37.664 +01:00 [Information] Connection id ""0HL5F82BCANVU"" communication error
+Microsoft.AspNetCore.Server.Kestrel.Internal.Networking.UvException: Error -4077 ECONNRESET connection reset by peer
+2017-06-09 15:37:00.375 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1977
+2017-06-09 15:37:00.379 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:37:09.712 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:37:09.715 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:37:09.718 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 9339.661ms
+2017-06-09 15:37:09.723 +01:00 [Information] Request finished in 9350.687ms 400 
+2017-06-09 15:41:44.262 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2029
+2017-06-09 15:41:44.270 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:41:53.475 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:41:53.478 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:41:53.480 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 9213.9552ms
+2017-06-09 15:41:53.485 +01:00 [Information] Request finished in 9223.8816ms 400 
+2017-06-09 15:45:20.460 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2005
+2017-06-09 15:45:20.466 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:46:50.360 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:46:50.366 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:46:50.399 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2002
+2017-06-09 15:46:50.400 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 89905.6651ms
+2017-06-09 15:46:50.424 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2002
+2017-06-09 15:46:50.454 +01:00 [Information] Request finished in 89969.1744ms 400 
+2017-06-09 15:46:50.457 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:46:56.141 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:46:56.164 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:46:56.167 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:47:00.492 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 5766.8666ms
+2017-06-09 15:47:00.495 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:47:00.542 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:47:00.566 +01:00 [Information] Request finished in 10152.4375ms 400 
+2017-06-09 15:47:00.569 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 10114.4792ms
+2017-06-09 15:47:00.581 +01:00 [Information] Request finished in 10205.8683ms 400 
+2017-06-09 15:47:05.549 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2002
+2017-06-09 15:47:05.552 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:47:12.283 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:47:12.285 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:47:12.288 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 6736.5724ms
+2017-06-09 15:47:12.294 +01:00 [Information] Request finished in 6745.8652ms 400 
+2017-06-09 15:47:42.446 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 842
+2017-06-09 15:47:42.451 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:48:02.815 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: null, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:48:05.718 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:48:06.147 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:48:06.226 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:48:06.236 +01:00 [Information] Request finished in 23790.2859ms 500 application/json
+2017-06-09 15:49:18.158 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 842
+2017-06-09 15:49:18.161 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:51:03.207 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: null, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:51:04.834 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:51:05.099 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:51:05.204 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:51:05.214 +01:00 [Information] Request finished in 107056.7128ms 500 application/json
+2017-06-09 15:51:34.817 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1186
+2017-06-09 15:51:34.820 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:51:40.349 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:51:40.351 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:51:40.354 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 5534.6812ms
+2017-06-09 15:51:40.358 +01:00 [Information] Request finished in 5542.1032ms 400 
+2017-06-09 15:51:59.693 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1141
+2017-06-09 15:51:59.697 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:52:05.769 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:52:05.771 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:52:05.774 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 6077.4231ms
+2017-06-09 15:52:05.780 +01:00 [Information] Request finished in 6085.9354ms 400 
+2017-06-09 15:52:31.694 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1097
+2017-06-09 15:52:31.708 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:52:46.249 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 01/01/0001 00:00:00, EndTime: 01/01/0001 00:00:00, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 1, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: null, HmoVerificationForm: null }
+2017-06-09 15:52:48.574 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>0001-01-01T00:00:00</StartTime>
+    <EndTime>0001-01-01T00:00:00</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>1</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+</InspectionRequest>"
+2017-06-09 15:52:48.814 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:52:48.900 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:52:48.911 +01:00 [Information] Request finished in 17217.1043ms 500 application/json
+2017-06-09 15:53:44.181 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 2002
+2017-06-09 15:53:44.188 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:55:13.605 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:55:13.610 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:55:13.636 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1914
+2017-06-09 15:55:13.637 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 89426.8453ms
+2017-06-09 15:55:13.690 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:55:13.696 +01:00 [Information] Request finished in 89482.0821ms 400 
+2017-06-09 15:55:15.745 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 01/01/0001 00:00:00, EndTime: 01/01/0001 00:00:00, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 1, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:55:16.940 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>0001-01-01T00:00:00</StartTime>
+    <EndTime>0001-01-01T00:00:00</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>1</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:55:17.222 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:55:17.322 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:55:17.331 +01:00 [Information] Request finished in 3718.8643ms 500 application/json
+2017-06-09 15:55:19.998 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1914
+2017-06-09 15:55:20.001 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:56:39.685 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 01/01/0001 00:00:00, EndTime: 01/01/0001 00:00:00, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 1, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:56:39.696 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1871
+2017-06-09 15:56:41.031 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>0001-01-01T00:00:00</StartTime>
+    <EndTime>0001-01-01T00:00:00</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>1</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:56:41.033 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:56:41.915 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 01/01/0001 00:00:00, EndTime: 01/01/0001 00:00:00, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 1, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:56:42.938 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>0001-01-01T00:00:00</StartTime>
+    <EndTime>0001-01-01T00:00:00</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>1</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:56:43.028 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:56:43.130 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:56:43.139 +01:00 [Information] Request finished in 83141.9755ms 500 application/json
+2017-06-09 15:56:43.454 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:56:43.538 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:56:43.548 +01:00 [Information] Request finished in 3861.0447ms 500 application/json
+2017-06-09 15:56:50.007 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1871
+2017-06-09 15:56:50.011 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 15:57:18.004 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 01/01/0001 00:00:00, EndTime: 01/01/0001 00:00:00, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 1, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 15:57:19.426 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>0001-01-01T00:00:00</StartTime>
+    <EndTime>0001-01-01T00:00:00</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>1</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 15:57:19.671 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 15:57:19.752 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 15:57:19.761 +01:00 [Information] Request finished in 29754.754ms 500 application/json
+2017-06-09 15:58:03.076 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1985
+2017-06-09 15:58:03.084 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments ([""]) - ModelState is Invalid
+2017-06-09 15:59:26.338 +01:00 [Information] Calling SaveInspection from InspectionController with request : "(null)"
+2017-06-09 15:59:26.344 +01:00 [Information] Executing HttpStatusCodeResult, setting HTTP status code 400
+2017-06-09 15:59:26.347 +01:00 [Information] Executed action "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" in 83262.6083ms
+2017-06-09 15:59:26.351 +01:00 [Information] Request finished in 83275.6926ms 400 
+2017-06-09 16:01:21.900 +01:00 [Information] Request starting HTTP/1.1 POST http://localhost:60207/api/Inspection/SaveInspection application/json 1936
+2017-06-09 16:01:21.906 +01:00 [Information] Executing action method "HMO.API.Controllers.InspectionController.SaveInspection (HMO.API)" with arguments (["HMO.API.Models.InspectionRequest"]) - ModelState is Valid
+2017-06-09 16:01:42.374 +01:00 [Information] Calling SaveInspection from InspectionController with request : InspectionRequest { InspectionId: 209, Status: null, Tenant: null, Address: null, RiskAssessmentForm: RiskAssessmentForm { StartTime: 06/07/2017 13:19:16, EndTime: 06/07/2017 13:19:16, PremisesType: 500, NumberOfResidents: 40, ManagementStandards: 50, HmoVulnerableResidents: 60, SingleFamilyVulnerableResidents: 10, DampAndMouldGrowth: 500, ExcessCold: 10, ExcessHeat: 100, Asbestos: 0, Biocides: 10, CarbonMonoxideAndFuel: 500, Lead: 100, Radiation: 10, UncombustedFuelGas: 10, VolatileOrganicCompounds: 100, CrowdingAndSpace: 0, EntryByIntruders: 10, Lighting: 10, NoiseProtection: 100, DomesticHygienePestsAndRefuse: 10, FoodSafety: 100, PersonalHygieneSanitationAndDrainage: 0, WaterSupplyForDomesticPurpose: 10, FallsAssociatedWithBaths: 10, FallingOnLevelSurfaces: 100, FallingOnStairs: 100, FallingBetweenLevels: 10, ElectricalHazards: 10, Fire: 10, FlamesHotSurfaces: 10, CollisionAndEntrapment: 100, Explosions: 10, PositionAndOperabilityOfAmenities: 500, StructuralCollapseAndFailingElements: 10, EvidenceImages: [] }, ServiceRequestForm: ServiceRequestForm { Owner: null, Agent: null, RequiresLicense: False, ComplaintClosed: False, NoticeId: 0, Note: null, EvidenceImages: [] }, HmoVerificationForm: null }
+2017-06-09 16:01:43.303 +01:00 [Information] Calling stored procedure api.SaveInspection with inspection XML:"<?xml version=\"1.0\" encoding=\"utf-16\"?>
+<InspectionRequest xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">
+  <InspectionId>209</InspectionId>
+  <RiskAssessmentForm>
+    <StartTime>2017-06-07T13:19:16.473Z</StartTime>
+    <EndTime>2017-06-07T13:19:16.473Z</EndTime>
+    <PremisesType>500</PremisesType>
+    <NumberOfResidents>40</NumberOfResidents>
+    <ManagementStandards>50</ManagementStandards>
+    <HmoVulnerableResidents>60</HmoVulnerableResidents>
+    <SingleFamilyVulnerableResidents>10</SingleFamilyVulnerableResidents>
+    <DampAndMouldGrowth>500</DampAndMouldGrowth>
+    <ExcessCold>10</ExcessCold>
+    <ExcessHeat>100</ExcessHeat>
+    <Asbestos>0</Asbestos>
+    <Biocides>10</Biocides>
+    <CarbonMonoxideAndFuel>500</CarbonMonoxideAndFuel>
+    <Lead>100</Lead>
+    <Radiation>10</Radiation>
+    <UncombustedFuelGas>10</UncombustedFuelGas>
+    <VolatileOrganicCompounds>100</VolatileOrganicCompounds>
+    <CrowdingAndSpace>0</CrowdingAndSpace>
+    <EntryByIntruders>10</EntryByIntruders>
+    <Lighting>10</Lighting>
+    <NoiseProtection>100</NoiseProtection>
+    <DomesticHygienePestsAndRefuse>10</DomesticHygienePestsAndRefuse>
+    <FoodSafety>100</FoodSafety>
+    <PersonalHygieneSanitationAndDrainage>0</PersonalHygieneSanitationAndDrainage>
+    <WaterSupplyForDomesticPurpose>10</WaterSupplyForDomesticPurpose>
+    <FallsAssociatedWithBaths>10</FallsAssociatedWithBaths>
+    <FallingOnLevelSurfaces>100</FallingOnLevelSurfaces>
+    <FallingOnStairs>100</FallingOnStairs>
+    <FallingBetweenLevels>10</FallingBetweenLevels>
+    <ElectricalHazards>10</ElectricalHazards>
+    <Fire>10</Fire>
+    <FlamesHotSurfaces>10</FlamesHotSurfaces>
+    <CollisionAndEntrapment>100</CollisionAndEntrapment>
+    <Explosions>10</Explosions>
+    <PositionAndOperabilityOfAmenities>500</PositionAndOperabilityOfAmenities>
+    <StructuralCollapseAndFailingElements>10</StructuralCollapseAndFailingElements>
+    <EvidenceImages />
+  </RiskAssessmentForm>
+  <ServiceRequestForm>
+    <RequiresLicense>false</RequiresLicense>
+    <ComplaintClosed>false</ComplaintClosed>
+    <NoticeId>0</NoticeId>
+    <EvidenceImages />
+  </ServiceRequestForm>
+</InspectionRequest>"
+2017-06-09 16:01:43.608 +01:00 [Error] HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+2017-06-09 16:01:43.720 +01:00 [Error] An unhandled exception has occurred: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+System.Exception: HMO.Infrastructure.InspectionRepository.WithConnection() experienced a SQL exception (not a timeout)
+   at HMO.Infrastructure.InspectionRepository.<SaveInspectionAsync>d__6.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.Infrastructure\InspectionRepository.cs:line 113
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.AppServices.InspectionAppService.<SaveInspectionAsync>d__4.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.AppServices\InspectionAppService.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at HMO.API.Controllers.InspectionController.<SaveInspection>d__5.MoveNext() in C:\Users\Anis\Dev\HMO\src\HMO.API\Controllers\InspectionController.cs:line 47
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionFilterAsync>d__28.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.ExceptionTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.ApplicationInsights.AspNetCore.RequestTrackingMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware`1.<Invoke>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2017-06-09 16:01:43.729 +01:00 [Information] Request finished in 21832.2131ms 500 application/json
