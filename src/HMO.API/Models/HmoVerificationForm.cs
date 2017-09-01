@@ -8,7 +8,7 @@ namespace HMO.API.Models
         public int LicenceTypeId { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
-        public List<PropertyDescription> PropertyDescription { get; set; }
+        public List<int> PropertyDescription { get; set; }
         public int Storeys { get; set; }
         public int NumberOfWhbs { get; set; }
         public int NumberOfOccupants { get; set; }
