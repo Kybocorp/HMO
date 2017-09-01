@@ -7,6 +7,7 @@
         public decimal Length { get; set; }
         public decimal Width { get; set; }
         public int NumberOfPeople { get; set; }
+        public int NumberOfHouseHolds { get; set; }
         public string Notes { get; set; }
     }
 }

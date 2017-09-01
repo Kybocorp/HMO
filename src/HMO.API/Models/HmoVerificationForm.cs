@@ -8,7 +8,7 @@ namespace HMO.API.Models
         public int LicenceTypeId { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
-        public string PropertyDescription { get; set; }
+        public List<PropertyDescription> PropertyDescription { get; set; }
         public int Storeys { get; set; }
         public int NumberOfWhbs { get; set; }
         public int NumberOfOccupants { get; set; }
@@ -18,7 +18,6 @@ namespace HMO.API.Models
         public bool AccreditationProof { get; set; }
         public decimal RefundAmount { get; set; }
         public decimal OutstandingAmount { get; set; }
-        public int NumberOfHouseHolds { get; set; }
         public List<Room> Rooms { get; set; }
         public List<byte[]> EvidenceImages { get; set; }
     }

@@ -42,5 +42,6 @@ namespace HMO.API.Models
         public int PositionAndOperabilityOfAmenities { get; set; }
         public int StructuralCollapseAndFailingElements { get; set; }
         public List<byte[]> EvidenceImages { get; set; }
+        public int PropertySubtype { get; set; }
     }
 }

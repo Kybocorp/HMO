@@ -72,28 +72,19 @@ namespace HMO.Infrastructure
             {
                 var param = new DynamicParameters();
                 param.Add("UserId", userId, dbType: DbType.Int32);
-                param.Add("Inspections", dbType: DbType.Xml, direction: ParameterDirection.Output);
 
                 _logger.LogInformation("Calling stored procedure api.GetUserPendingInspections with UserId:  {0}", userId);
 
-                var result = await WithConnection(async c =>
+                return await WithConnection(async c =>
                 {
-                    await c.ExecuteAsync("api.GetUserPendingInspections", param, commandType: CommandType.StoredProcedure);
-                    return param.Get<string>("@Inspections");
+                    return await c.QueryAsync<Inspection, Models.Officer, Tenant, Address, Inspection>("api.GetUserPendingInspections", (inspection, officer, tenant, address) =>
+                    {
+                        inspection.Tenant = tenant;
+                        inspection.Address = address;
+                        inspection.Officer = officer;
+                        return inspection;
+                    }, param, splitOn: "OfficerId,TenantId, PropertyId", commandType: CommandType.StoredProcedure);
                 });
-
-                return _xmlHelper.ConvertFromXml<List<Inspection>>(result);
-
-                //return await WithConnection(async c =>
-                //{
-                //    return await c.QueryAsync<Inspection, Models.Officer, Tenant, Address, Inspection>("api.GetUserPendingInspections", (inspection, officer, tenant, address) =>
-                //    {
-                //        inspection.Tenant = tenant;
-                //        inspection.Address = address;
-                //        inspection.Officer = officer;
-                //        return inspection;
-                //    }, param, splitOn: "OfficerId,TenantId, PropertyId", commandType: CommandType.StoredProcedure);
-                //});
             }
             catch (Exception ex)
             {
